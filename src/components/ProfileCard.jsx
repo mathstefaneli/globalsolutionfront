@@ -1,26 +1,37 @@
-import React from "react";
+/* src/components/ProfileCard.jsx */
 
-export default function ProfileCard({ profile, onOpen }) {
+export default function ProfileCard({ perfil }) {
   return (
-    <div className="bg-white rounded-2xl shadow p-4 flex flex-col">
-      <div className="flex items-center gap-4">
-        <img src={profile.foto} alt={profile.nome} className="w-16 h-16 rounded-full object-cover" />
-        <div>
-          <h2 className="font-semibold">{profile.nome}</h2>
-          <p className="text-sm text-gray-500">{profile.cargo}</p>
-          <p className="text-xs text-gray-400">{profile.localizacao}</p>
-        </div>
-      </div>
+    <div className="bg-white shadow-md rounded-xl p-6 w-80 hover:shadow-xl transition-shadow">
+      {/* Foto do perfil */}
+      <img
+        src={perfil.foto}
+        alt={perfil.nome}
+        className="w-24 h-24 rounded-full mx-auto mb-4 object-cover"
+      />
 
-      <p className="mt-3 text-sm flex-1">{profile.resumo}</p>
+      {/* Nome e cargo */}
+      <h2 className="text-xl font-semibold text-center text-gray-800">{perfil.nome}</h2>
+      <p className="text-center text-gray-500">{perfil.cargo}</p>
 
-      <div className="mt-3 flex items-center justify-between">
-        <div className="text-xs text-gray-500">
-          {profile.habilidadesTecnicas?.slice(0,3).join(", ")}
-        </div>
-        <div className="flex gap-2">
-          <button onClick={onOpen} className="px-3 py-1 border rounded-lg text-sm">Ver</button>
-          <button className="px-3 py-1 bg-pink-500 text-white rounded-lg text-sm">Recomendar</button>
+      {/* Localização */}
+      <p className="text-sm text-center text-gray-400 mt-2">{perfil.localizacao}</p>
+
+      {/* Resumo */}
+      <p className="text-sm text-gray-600 mt-3 text-center">{perfil.resumo}</p>
+
+      {/* Habilidades */}
+      <div className="mt-4">
+        <h3 className="text-sm font-semibold text-gray-700 mb-1">Habilidades Técnicas:</h3>
+        <div className="flex flex-wrap gap-2 justify-center">
+          {perfil.habilidadesTecnicas.map((hab, index) => (
+            <span
+              key={index}
+              className="bg-blue-100 text-blue-700 px-2 py-1 rounded-full text-xs"
+            >
+              {hab}
+            </span>
+          ))}
         </div>
       </div>
     </div>
