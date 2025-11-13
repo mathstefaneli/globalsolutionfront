@@ -436,5 +436,426 @@
     "certificados": [],
     "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
     "areainteresses": ["Mobile", "Saúde"]
-  }
+  },
+  {
+  "id": 21,
+  "nome": "Letícia Almeida",
+  "foto": "",
+  "cargo": "Enfermeira",
+  "resumo": "Profissional experiente em atendimento clínico e gestão de equipes.",
+  "localizacao": "São Paulo/SP",
+  "area": "Saúde",
+  "habilidadesTecnicas": ["Atendimento clínico", "Curativos", "Prontuário eletrônico"],
+  "softSkills": ["Empatia", "Comunicação", "Organização"],
+  "experiencias": [
+    { "empresa": "Hospital Vida", "cargo": "Enfermeira", "inicio": "2018", "fim": "Atual", "descricao": "Atendimento direto ao paciente e suporte ao time médico." }
+  ],
+  "formacao": [
+    { "curso": "Enfermagem", "instituicao": "USP", "ano": "2018" }
+  ],
+  "projetos": [],
+  "certificados": ["Atendimento de emergência"],
+  "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+  "areainteresses": ["Saúde", "Gestão hospitalar"]
+},
+{
+  "id": 22,
+  "nome": "Eduardo Tavares",
+  "foto": "",
+  "cargo": "Professor de Matemática",
+  "resumo": "Professor dedicado ao ensino médio e pré-vestibular.",
+  "localizacao": "Goiânia/GO",
+  "area": "Educação",
+  "habilidadesTecnicas": ["Matemática", "Didática", "Planejamento pedagógico"],
+  "softSkills": ["Paciência", "Clareza", "Empatia"],
+  "experiencias": [
+    { "empresa": "Colégio Horizonte", "cargo": "Professor", "inicio": "2017", "fim": "Atual", "descricao": "Aulas e preparação para ENEM." }
+  ],
+  "formacao": [
+    { "curso": "Matemática", "instituicao": "UFG", "ano": "2017" }
+  ],
+  "projetos": [],
+  "certificados": [],
+  "idiomas": [{ "idioma": "Inglês", "nivel": "Básico" }],
+  "areainteresses": ["Educação", "Tecnologia educacional"]
+},
+{
+  "id": 23,
+  "nome": "Simone Duarte",
+  "foto": "",
+  "cargo": "Nutricionista",
+  "resumo": "Nutricionista focada em reeducação alimentar e saúde preventiva.",
+  "localizacao": "Rio de Janeiro/RJ",
+  "area": "Saúde",
+  "habilidadesTecnicas": ["Nutrigenômica", "Dietas personalizadas"],
+  "softSkills": ["Empatia", "Motivação", "Atenção aos detalhes"],
+  "experiencias": [
+    { "empresa": "Clínica Health", "cargo": "Nutricionista", "inicio": "2019", "fim": "Atual", "descricao": "Atendimento individual e grupos." }
+  ],
+  "formacao": [
+    { "curso": "Nutrição", "instituicao": "UFRJ", "ano": "2019" }
+  ],
+  "projetos": [],
+  "certificados": [],
+  "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+  "areainteresses": ["Saúde", "Bem-estar"]
+},
+{
+  "id": 24,
+  "nome": "Henrique Martins",
+  "foto": "",
+  "cargo": "Advogado Trabalhista",
+  "resumo": "Advogado com foco em direito do trabalho e causas corporativas.",
+  "localizacao": "Curitiba/PR",
+  "area": "Direito",
+  "habilidadesTecnicas": ["Direito Trabalhista", "Consultoria Jurídica", "Audiências"],
+  "softSkills": ["Negociação", "Comunicação", "Gestão de conflitos"],
+  "experiencias": [
+    { "empresa": "Martins & Associados", "cargo": "Advogado", "inicio": "2018", "fim": "Atual", "descricao": "Atuação em processos e consultoria." }
+  ],
+  "formacao": [
+    { "curso": "Direito", "instituicao": "PUC-PR", "ano": "2018" }
+  ],
+  "projetos": [],
+  "certificados": ["OAB"],
+  "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+  "areainteresses": ["Direito", "Compliance"]
+},
+{
+  "id": 25,
+  "nome": "Tatiane Borges",
+  "foto": "",
+  "cargo": "Assistente Social",
+  "resumo": "Atua com famílias em situação de risco e políticas públicas.",
+  "localizacao": "Belo Horizonte/MG",
+  "area": "Serviço Social",
+  "habilidadesTecnicas": ["Atendimento social", "Apoio emocional", "Gestão de casos"],
+  "softSkills": ["Empatia", "Paciência", "Comunicação"],
+  "experiencias": [
+    { "empresa": "Prefeitura de BH", "cargo": "Assistente Social", "inicio": "2016", "fim": "Atual", "descricao": "Atuação em programas sociais e famílias vulneráveis." }
+  ],
+  "formacao": [
+    { "curso": "Serviço Social", "instituicao": "UFMG", "ano": "2016" }
+  ],
+  "projetos": [],
+  "certificados": [],
+  "idiomas": [{ "idioma": "Espanhol", "nivel": "Básico" }],
+  "areainteresses": ["Políticas públicas", "Bem-estar social"]
+},
+{
+  "id": 26,
+  "nome": "Marcelo Figueiredo",
+  "foto": "",
+  "cargo": "Economista",
+  "resumo": "Especialista em análises macroeconômicas e planejamento financeiro.",
+  "localizacao": "Brasília/DF",
+  "area": "Economia",
+  "habilidadesTecnicas": ["Macroeconomia", "Modelagem financeira"],
+  "softSkills": ["Lógica", "Pensamento analítico", "Autogestão"],
+  "experiencias": [
+    { "empresa": "FinGroup", "cargo": "Economista", "inicio": "2019", "fim": "Atual", "descricao": "Análise econômica e consultoria." }
+  ],
+  "formacao": [
+    { "curso": "Economia", "instituicao": "UnB", "ano": "2019" }
+  ],
+  "projetos": [],
+  "certificados": ["Economia aplicada"],
+  "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+  "areainteresses": ["Mercado", "Finanças públicas"]
+},
+{
+  "id": 27,
+  "nome": "Lorena Passos",
+  "foto": "",
+  "cargo": "Psicopedagoga",
+  "resumo": "Apoia crianças e adolescentes com dificuldades de aprendizagem.",
+  "localizacao": "Salvador/BA",
+  "area": "Educação",
+  "habilidadesTecnicas": ["Psicopedagogia", "Acompanhamento escolar"],
+  "softSkills": ["Empatia", "Paciência", "Escuta ativa"],
+  "experiencias": [
+    { "empresa": "Colégio Alfa", "cargo": "Psicopedagoga", "inicio": "2018", "fim": "Atual", "descricao": "Atendimento e suporte pedagógico." }
+  ],
+  "formacao": [
+    { "curso": "Pedagogia", "instituicao": "UFBA", "ano": "2017" }
+  ],
+  "projetos": [],
+  "certificados": [],
+  "idiomas": [{ "idioma": "Inglês", "nivel": "Básico" }],
+  "areainteresses": ["Desenvolvimento infantil", "Ensino"]
+},
+{
+  "id": 28,
+  "nome": "Gustavo Lima",
+  "foto": "",
+  "cargo": "Arquiteto",
+  "resumo": "Trabalha com projetos residenciais e urbanismo.",
+  "localizacao": "São Paulo/SP",
+  "area": "Arquitetura",
+  "habilidadesTecnicas": ["AutoCAD", "SketchUp", "Urbanismo"],
+  "softSkills": ["Criatividade", "Organização", "Boa comunicação"],
+  "experiencias": [
+    { "empresa": "Studio Forma", "cargo": "Arquiteto", "inicio": "2017", "fim": "Atual", "descricao": "Projetos residenciais e edifícios." }
+  ],
+  "formacao": [
+    { "curso": "Arquitetura e Urbanismo", "instituicao": "Mackenzie", "ano": "2017" }
+  ],
+  "projetos": [],
+  "certificados": [],
+  "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+  "areainteresses": ["Urbanismo", "Sustentabilidade"]
+},
+{
+  "id": 29,
+  "nome": "Aline Correia",
+  "foto": "",
+  "cargo": "Farmacêutica",
+  "resumo": "Profissional atuante em análises laboratoriais e atendimento clínico.",
+  "localizacao": "Recife/PE",
+  "area": "Saúde",
+  "habilidadesTecnicas": ["Análises clínicas", "Farmácia clínica"],
+  "softSkills": ["Precisão", "Responsabilidade", "Empatia"],
+  "experiencias": [
+    { "empresa": "LabPlus", "cargo": "Farmacêutica", "inicio": "2018", "fim": "Atual", "descricao": "Análises laboratoriais e revisão técnica." }
+  ],
+  "formacao": [
+    { "curso": "Farmácia", "instituicao": "UFPE", "ano": "2018" }
+  ],
+  "projetos": [],
+  "certificados": [],
+  "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+  "areainteresses": ["Saúde pública", "Laboratórios"]
+},
+{
+  "id": 30,
+  "nome": "Ricardo Santos",
+  "foto": "",
+  "cargo": "Fisioterapeuta",
+  "resumo": "Especializado em reabilitação ortopédica e esportiva.",
+  "localizacao": "Porto Alegre/RS",
+  "area": "Saúde",
+  "habilidadesTecnicas": ["Terapia manual", "Reabilitação", "Avaliação física"],
+  "softSkills": ["Motivação", "Empatia", "Comunicação"],
+  "experiencias": [
+    { "empresa": "RehabSports", "cargo": "Fisioterapeuta", "inicio": "2019", "fim": "Atual", "descricao": "Reabilitação e acompanhamento de atletas." }
+  ],
+  "formacao": [
+    { "curso": "Fisioterapia", "instituicao": "UFRGS", "ano": "2019" }
+  ],
+  "projetos": [],
+  "certificados": ["Reabilitação esportiva"],
+  "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+  "areainteresses": ["Esportes", "Reabilitação"]
+},
+{
+  "id": 31,
+  "nome": "Carolina Nunes",
+  "foto": "",
+  "cargo": "Jornalista",
+  "resumo": "Experiência em redação, reportagens e produção de conteúdo digital.",
+  "localizacao": "São Paulo/SP",
+  "area": "Comunicação",
+  "habilidadesTecnicas": ["Redação", "Apuração", "Reportagem"],
+  "softSkills": ["Clareza", "Comunicação", "Criatividade"],
+  "experiencias": [
+    { "empresa": "NewsOnline", "cargo": "Repórter", "inicio": "2018", "fim": "Atual", "descricao": "Reportagens e matérias especiais." }
+  ],
+  "formacao": [
+    { "curso": "Jornalismo", "instituicao": "Cásper Líbero", "ano": "2018" }
+  ],
+  "projetos": [],
+  "certificados": [],
+  "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+  "areainteresses": ["Mídia", "Cultura"]
+},
+{
+  "id": 32,
+  "nome": "Renan Souza",
+  "foto": "",
+  "cargo": "Chef de Cozinha",
+  "resumo": "Chef especializado em gastronomia contemporânea e cardápios autorais.",
+  "localizacao": "Rio de Janeiro/RJ",
+  "area": "Gastronomia",
+  "habilidadesTecnicas": ["Culinária contemporânea", "Elaboração de cardápios"],
+  "softSkills": ["Criatividade", "Liderança", "Organização"],
+  "experiencias": [
+    { "empresa": "Bistrô Mar", "cargo": "Chef", "inicio": "2017", "fim": "Atual", "descricao": "Criação de pratos autorais e gestão de cozinha." }
+  ],
+  "formacao": [
+    { "curso": "Gastronomia", "instituicao": "Estácio", "ano": "2017" }
+  ],
+  "projetos": [],
+  "certificados": [],
+  "idiomas": [{ "idioma": "Francês", "nivel": "Básico" }],
+  "areainteresses": ["Gastronomia autoral"]
+},
+{
+  "id": 33,
+  "nome": "Helena Pires",
+  "foto": "",
+  "cargo": "Bióloga",
+  "resumo": "Pesquisa em biologia marinha e conservação ambiental.",
+  "localizacao": "Florianópolis/SC",
+  "area": "Ciência",
+  "habilidadesTecnicas": ["Pesquisa científica", "Análise laboratorial"],
+  "softSkills": ["Curiosidade", "Precisão", "Autogestão"],
+  "experiencias": [
+    { "empresa": "EcoMar", "cargo": "Pesquisadora", "inicio": "2019", "fim": "Atual", "descricao": "Estudos marinhos e preservação." }
+  ],
+  "formacao": [
+    { "curso": "Biologia", "instituicao": "UFSC", "ano": "2019" }
+  ],
+  "projetos": [],
+  "certificados": [],
+  "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+  "areainteresses": ["Conservação", "Pesquisa"]
+},
+{
+  "id": 34,
+  "nome": "Thiago Carvalho",
+  "foto": "",
+  "cargo": "Treinador Físico",
+  "resumo": "Personal trainer focado em hipertrofia e condicionamento.",
+  "localizacao": "São Paulo/SP",
+  "area": "Esportes",
+  "habilidadesTecnicas": ["Treinamento funcional", "Avaliação física"],
+  "softSkills": ["Motivação", "Disciplina", "Comunicação"],
+  "experiencias": [
+    { "empresa": "FitClub", "cargo": "Treinador Físico", "inicio": "2018", "fim": "Atual", "descricao": "Treinamento personalizado." }
+  ],
+  "formacao": [
+    { "curso": "Educação Física", "instituicao": "USP", "ano": "2018" }
+  ],
+  "projetos": [],
+  "certificados": [],
+  "idiomas": [{ "idioma": "Inglês", "nivel": "Básico" }],
+  "areainteresses": ["Fitness", "Saúde"]
+},
+{
+  "id": 35,
+  "nome": "Paula Serrano",
+  "foto": "",
+  "cargo": "Gestora Ambiental",
+  "resumo": "Atua em projetos de sustentabilidade e educação ambiental.",
+  "localizacao": "Belém/PA",
+  "area": "Meio Ambiente",
+  "habilidadesTecnicas": ["Gestão ambiental", "Projetos sustentáveis"],
+  "softSkills": ["Organização", "Empatia", "Proatividade"],
+  "experiencias": [
+    { "empresa": "EcoBrasil", "cargo": "Gestora Ambiental", "inicio": "2017", "fim": "Atual", "descricao": "Projetos ecológicos e ações educativas." }
+  ],
+  "formacao": [
+    { "curso": "Gestão Ambiental", "instituicao": "UFPA", "ano": "2017" }
+  ],
+  "projetos": [],
+  "certificados": [],
+  "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+  "areainteresses": ["Sustentabilidade", "Educação ambiental"]
+},
+{
+  "id": 36,
+  "nome": "Marcos Valverde",
+  "foto": "",
+  "cargo": "Engenheiro Mecânico",
+  "resumo": "Especialista em projetos industriais e automação.",
+  "localizacao": "Campinas/SP",
+  "area": "Engenharia",
+  "habilidadesTecnicas": ["SolidWorks", "Automação", "Mecânica industrial"],
+  "softSkills": ["Lógica", "Proatividade", "Responsabilidade"],
+  "experiencias": [
+    { "empresa": "IndusTech", "cargo": "Engenheiro", "inicio": "2018", "fim": "Atual", "descricao": "Projetos industriais e consultoria técnica." }
+  ],
+  "formacao": [
+    { "curso": "Engenharia Mecânica", "instituicao": "UNICAMP", "ano": "2018" }
+  ],
+  "projetos": [],
+  "certificados": [],
+  "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+  "areainteresses": ["Indústria", "Automação"]
+},
+{
+  "id": 37,
+  "nome": "Viviane Gomes",
+  "foto": "",
+  "cargo": "Pedagoga",
+  "resumo": "Atua com alfabetização e ensino infantil.",
+  "localizacao": "João Pessoa/PB",
+  "area": "Educação",
+  "habilidadesTecnicas": ["Pedagogia infantil", "Planejamento de aulas"],
+  "softSkills": ["Paciência", "Empatia", "Criatividade"],
+  "experiencias": [
+    { "empresa": "Colégio do Sol", "cargo": "Pedagoga", "inicio": "2016", "fim": "Atual", "descricao": "Atendimento e alfabetização." }
+  ],
+  "formacao": [
+    { "curso": "Pedagogia", "instituicao": "UFPB", "ano": "2016" }
+  ],
+  "projetos": [],
+  "certificados": [],
+  "idiomas": [{ "idioma": "Inglês", "nivel": "Básico" }],
+  "areainteresses": ["Educação infantil"]
+},
+{
+  "id": 38,
+  "nome": "César Albuquerque",
+  "foto": "",
+  "cargo": "Técnico em Informática",
+  "resumo": "Suporte técnico presencial e manutenção de equipamentos.",
+  "localizacao": "Natal/RN",
+  "area": "Tecnologia",
+  "habilidadesTecnicas": ["Manutenção", "Hardware", "Sistemas operacionais"],
+  "softSkills": ["Comunicação", "Organização", "Paciência"],
+  "experiencias": [
+    { "empresa": "TechRepair", "cargo": "Técnico", "inicio": "2017", "fim": "Atual", "descricao": "Manutenção e suporte técnico." }
+  ],
+  "formacao": [
+    { "curso": "Técnico em Informática", "instituicao": "IFRN", "ano": "2017" }
+  ],
+  "projetos": [],
+  "certificados": [],
+  "idiomas": [{ "idioma": "Inglês", "nivel": "Básico" }],
+  "areainteresses": ["TI", "Suporte"]
+},
+{
+  "id": 39,
+  "nome": "Elisa Fontes",
+  "foto": "",
+  "cargo": "Assistente Administrativa",
+  "resumo": "Atuação em rotinas administrativas e organização de documentos.",
+  "localizacao": "São Luís/MA",
+  "area": "Administração",
+  "habilidadesTecnicas": ["Pacote Office", "Arquivamento", "Atendimento"],
+  "softSkills": ["Organização", "Comunicação", "Responsabilidade"],
+  "experiencias": [
+    { "empresa": "OfficePlus", "cargo": "Assistente", "inicio": "2018", "fim": "Atual", "descricao": "Rotinas administrativas e suporte." }
+  ],
+  "formacao": [
+    { "curso": "Administração", "instituicao": "UFMA", "ano": "2018" }
+  ],
+  "projetos": [],
+  "certificados": [],
+  "idiomas": [{ "idioma": "Inglês", "nivel": "Básico" }],
+  "areainteresses": ["Administração", "Atendimento"]
+},
+{
+  "id": 40,
+  "nome": "Patrick Mourão",
+  "foto": "",
+  "cargo": "Analista de Logística",
+  "resumo": "Experiência com cadeia de suprimentos e otimização de processos.",
+  "localizacao": "São Paulo/SP",
+  "area": "Logística",
+  "habilidadesTecnicas": ["Logística", "Gestão de estoque", "Planejamento"],
+  "softSkills": ["Organização", "Pensamento analítico", "Boa comunicação"],
+  "experiencias": [
+    { "empresa": "SupplyMax", "cargo": "Analista", "inicio": "2019", "fim": "Atual", "descricao": "Controle de estoque e fluxo logístico." }
+  ],
+  "formacao": [
+    { "curso": "Logística", "instituicao": "ETEC", "ano": "2019" }
+  ],
+  "projetos": [],
+  "certificados": [],
+  "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+  "areainteresses": ["Cadeia de suprimentos", "Otimização"]
+}
+
 ]
