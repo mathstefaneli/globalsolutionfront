@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { motion } from "framer-motion";
 import ProfileModel from "./ProfileModel";
 
 export default function ProfileCard({ perfil }) {
@@ -6,8 +7,13 @@ export default function ProfileCard({ perfil }) {
 
   return (
     <>
-      <div
-        className="bg-white dark:bg-gray-800 shadow-md dark:shadow-gray-700 rounded-xl p-6 w-72 hover:scale-105 transition-transform cursor-pointer"
+      <motion.div
+        layout
+        initial={{ opacity: 0, y: 50 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ duration: 0.6 }}
+        whileHover={{ scale: 1.05 }}
+        className="bg-white dark:bg-gray-800 shadow-md dark:shadow-gray-700 rounded-xl p-6 w-72 cursor-pointer"
         onClick={() => setOpen(true)}
       >
         <img
@@ -25,7 +31,8 @@ export default function ProfileCard({ perfil }) {
           {perfil.resumo}
         </p>
 
-        <button
+        <motion.button
+          whileTap={{ scale: 0.95 }}
           onClick={(e) => {
             e.stopPropagation();
             setOpen(true);
@@ -33,8 +40,8 @@ export default function ProfileCard({ perfil }) {
           className="mt-4 w-full py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 dark:bg-yellow-400 dark:text-gray-900 dark:hover:bg-yellow-500 transition"
         >
           Ver mais
-        </button>
-      </div>
+        </motion.button>
+      </motion.div>
 
       {open && <ProfileModel perfil={perfil} onClose={() => setOpen(false)} />}
     </>
