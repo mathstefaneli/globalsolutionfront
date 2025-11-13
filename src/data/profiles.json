@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nome": "Fulano de Tal",
+    "foto": "/images/foto1.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Especialista em desenvolvimento web e React.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["JavaScript", "React", "CSS", "Tailwind"],
+    "softSkills": ["Comunicação", "Trabalho em equipe"],
+    "experiencias": [
+      { "empresa": "Empresa X", "cargo": "Analista", "inicio": "2022-01", "fim": "2024-06", "descricao": "Atuação em front-end" }
+    ],
+    "formacao": [
+      { "curso": "Bacharel em Ciência da Computação", "instituicao": "FIAP", "ano": 2021 }
+    ],
+    "projetos": [
+      { "titulo": "Plataforma XP", "link": "https://exemplo.com", "descricao": "Projeto fullstack" }
+    ],
+    "certificados": ["AWS Certified Developer"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "areainteres": ["IA", "Educação"]
+  },
+  {
+    "id": 2,
+    "nome": "Beltrana Silva",
+    "foto": "/images/foto2.jpg",
+    "cargo": "Product Designer",
+    "resumo": "Designer focada em UX e prototipagem.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": ["Figma", "Prototipagem", "Design System"],
+    "softSkills": ["Empatia", "Pensamento crítico"],
+    "experiencias": [],
+    "formacao": [],
+    "projetos": [],
+    "certificados": [],
+    "idiomas": [{ "idioma": "Espanhol", "nivel": "Intermediário" }],
+    "areainteres": ["Design de Produto"]
+  }
+]
