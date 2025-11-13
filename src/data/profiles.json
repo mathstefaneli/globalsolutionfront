@@ -1,42 +1,440 @@
 [
   {
     "id": 1,
-    "nome": "Fulano de Tal",
-    "foto": "/images/foto1.jpg",
-    "cargo": "Engenheiro de Software",
-    "resumo": "Especialista em desenvolvimento web e React.",
+    "nome": "Ana Beatriz Silva",
+    "foto": "",
+    "cargo": "Desenvolvedora Front-end",
+    "resumo": "Front-end focada em interfaces modernas e acessíveis, especialista em React.",
     "localizacao": "São Paulo/SP",
-    "area": "Desenvolvimento",
-    "habilidadesTecnicas": ["JavaScript", "React", "CSS", "Tailwind"],
-    "softSkills": ["Comunicação", "Trabalho em equipe"],
+    "area": "Tecnologia",
+    "habilidadesTecnicas": ["React", "JavaScript", "Tailwind", "HTML", "CSS"],
+    "softSkills": ["Comunicação", "Colaboração", "Organização"],
     "experiencias": [
-      { "empresa": "Empresa X", "cargo": "Analista", "inicio": "2022-01", "fim": "2024-06", "descricao": "Atuação em front-end" }
+      { "empresa": "TechWave", "cargo": "Front-end Junior", "inicio": "2021", "fim": "2023", "descricao": "Criação de interfaces e componentes reutilizáveis." }
     ],
     "formacao": [
-      { "curso": "Bacharel em Ciência da Computação", "instituicao": "FIAP", "ano": 2021 }
+      { "curso": "Sistemas de Informação", "instituicao": "UFSC", "ano": "2021" }
     ],
     "projetos": [
-      { "titulo": "Plataforma XP", "link": "https://exemplo.com", "descricao": "Projeto fullstack" }
+      { "titulo": "Portal Educacional", "link": "https://exemplo.com", "descricao": "Plataforma de cursos online com React." }
     ],
-    "certificados": ["AWS Certified Developer"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
-    "areainteres": ["IA", "Educação"]
+    "certificados": ["React Avançado - Alura"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "areainteresses": ["Educação", "Acessibilidade"]
   },
   {
     "id": 2,
-    "nome": "Beltrana Silva",
-    "foto": "/images/foto2.jpg",
-    "cargo": "Product Designer",
-    "resumo": "Designer focada em UX e prototipagem.",
-    "localizacao": "Rio de Janeiro/RJ",
+    "nome": "Lucas Henrique Moura",
+    "foto": "",
+    "cargo": "Analista de Dados",
+    "resumo": "Especialista em análise e visualização de dados com foco em tomada de decisões.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Python", "SQL", "Power BI", "Pandas", "ETL"],
+    "softSkills": ["Pensamento analítico", "Detalhismo", "Resolução de problemas"],
+    "experiencias": [
+      { "empresa": "InfoData", "cargo": "Analista de Dados", "inicio": "2020", "fim": "Atual", "descricao": "Análise de KPIs e construção de dashboards." }
+    ],
+    "formacao": [
+      { "curso": "Engenharia de Produção", "instituicao": "USP", "ano": "2020" }
+    ],
+    "projetos": [
+      { "titulo": "Relatórios Gerenciais", "link": "", "descricao": "Automação de relatórios financeiros." }
+    ],
+    "certificados": ["Data Science - Coursera"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "areainteresses": ["Finanças", "Business Intelligence"]
+  },
+  {
+    "id": 3,
+    "nome": "Mariana Rocha",
+    "foto": "",
+    "cargo": "Designer UX/UI",
+    "resumo": "UX/UI designer com foco em experiências centradas no usuário e protótipos eficientes.",
+    "localizacao": "Porto Alegre/RS",
     "area": "Design",
-    "habilidadesTecnicas": ["Figma", "Prototipagem", "Design System"],
-    "softSkills": ["Empatia", "Pensamento crítico"],
-    "experiencias": [],
-    "formacao": [],
+    "habilidadesTecnicas": ["Figma", "UI Design", "UX Research", "Prototipação"],
+    "softSkills": ["Empatia", "Criatividade", "Proatividade"],
+    "experiencias": [
+      { "empresa": "PixelLab", "cargo": "UX/UI Designer", "inicio": "2019", "fim": "Atual", "descricao": "Desenvolvimento de fluxos e protótipos." }
+    ],
+    "formacao": [
+      { "curso": "Design Digital", "instituicao": "PUC Minas", "ano": "2019" }
+    ],
+    "projetos": [
+      { "titulo": "App Mobilidade", "link": "", "descricao": "Design focado em acessibilidade." }
+    ],
+    "certificados": ["UX Research - Coursera"],
+    "idiomas": [{ "idioma": "Espanhol", "nivel": "Intermediário" }],
+    "areainteresses": ["Acessibilidade", "Design de Produto"]
+  },
+  {
+    "id": 4,
+    "nome": "Carlos Alberto Ferreira",
+    "foto": "",
+    "cargo": "Desenvolvedor Back-end",
+    "resumo": "Back-end especializado em arquiteturas escaláveis e APIs robustas.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": ["Node.js", "Express", "MongoDB", "Docker", "API REST"],
+    "softSkills": ["Pensamento lógico", "Autonomia", "Liderança"],
+    "experiencias": [
+      { "empresa": "CodeBase", "cargo": "Back-end Pleno", "inicio": "2018", "fim": "Atual", "descricao": "Desenvolvimento de microserviços e integrações." }
+    ],
+    "formacao": [
+      { "curso": "Ciência da Computação", "instituicao": "UFRJ", "ano": "2018" }
+    ],
+    "projetos": [
+      { "titulo": "Gateway API", "link": "", "descricao": "Middleware para integração entre serviços." }
+    ],
+    "certificados": ["AWS Certified Developer"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "areainteresses": ["Arquitetura", "Escalabilidade"]
+  },
+  {
+    "id": 5,
+    "nome": "Fernanda Oliveira",
+    "foto": "",
+    "cargo": "Gerente de Projetos",
+    "resumo": "Gerente de projetos com foco em metodologias ágeis e equipes multidisciplinares.",
+    "localizacao": "Curitiba/PR",
+    "area": "Gestão",
+    "habilidadesTecnicas": ["Scrum", "Kanban", "PMBOK", "Jira", "Gestão Ágil"],
+    "softSkills": ["Liderança", "Comunicação", "Tomada de decisão"],
+    "experiencias": [
+      { "empresa": "AgileWorks", "cargo": "Project Manager", "inicio": "2019", "fim": "Atual", "descricao": "Coordenação de squads e entregas." }
+    ],
+    "formacao": [
+      { "curso": "Administração", "instituicao": "FGV", "ano": "2017" }
+    ],
+    "projetos": [
+      { "titulo": "Transformação Ágil", "link": "", "descricao": "Implementação de práticas ágeis." }
+    ],
+    "certificados": ["PMP"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "areainteresses": ["Gestão", "Transformação Digital"]
+  },
+  {
+    "id": 6,
+    "nome": "João Pedro Andrade",
+    "foto": "",
+    "cargo": "Desenvolvedor Fullstack",
+    "resumo": "Fullstack com foco em soluções rápidas e eficientes.",
+    "localizacao": "São Paulo/SP",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": ["React", "Node.js", "PostgreSQL", "Docker"],
+    "softSkills": ["Adaptabilidade", "Resiliência", "Colaboração"],
+    "experiencias": [
+      { "empresa": "DevSolutions", "cargo": "Fullstack", "inicio": "2020", "fim": "Atual", "descricao": "Desenvolvimento de produtos end-to-end." }
+    ],
+    "formacao": [
+      { "curso": "Engenharia de Software", "instituicao": "UNIP", "ano": "2020" }
+    ],
+    "projetos": [
+      { "titulo": "Plataforma Interna", "link": "", "descricao": "Sistema de gestão interna." }
+    ],
+    "certificados": ["TypeScript Professional"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "areainteresses": ["DevOps", "APIs"]
+  },
+  {
+    "id": 7,
+    "nome": "Patrícia Mendes",
+    "foto": "",
+    "cargo": "Cientista de Dados",
+    "resumo": "Cientista de dados experiente em modelos preditivos e IA.",
+    "localizacao": "Recife/PE",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Python", "Machine Learning", "TensorFlow", "SQL"],
+    "softSkills": ["Raciocínio crítico", "Autonomia", "Criatividade"],
+    "experiencias": [
+      { "empresa": "DataMind", "cargo": "Data Scientist", "inicio": "2019", "fim": "Atual", "descricao": "Modelagem de dados e POCs de IA." }
+    ],
+    "formacao": [
+      { "curso": "Matemática Aplicada", "instituicao": "UFMG", "ano": "2019" }
+    ],
+    "projetos": [
+      { "titulo": "Modelo de Churn", "link": "", "descricao": "Previsão de churn para plataformas SaaS." }
+    ],
+    "certificados": ["Machine Learning - Coursera"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "areainteresses": ["IA", "Pesquisa"]
+  },
+  {
+    "id": 8,
+    "nome": "Vinícius Nogueira",
+    "foto": "",
+    "cargo": "Engenheiro DevOps",
+    "resumo": "DevOps especializado em automação e infraestrutura em nuvem.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": ["AWS", "Kubernetes", "Terraform", "Linux"],
+    "softSkills": ["Proatividade", "Comunicação", "Organização"],
+    "experiencias": [
+      { "empresa": "CloudOps", "cargo": "DevOps Engineer", "inicio": "2018", "fim": "Atual", "descricao": "Automação de pipelines e infraestrutura." }
+    ],
+    "formacao": [
+      { "curso": "Redes de Computadores", "instituicao": "IFSP", "ano": "2018" }
+    ],
+    "projetos": [
+      { "titulo": "Infra as Code", "link": "", "descricao": "Provisionamento automatizado de infra." }
+    ],
+    "certificados": ["CKA", "AWS Certified Solutions Architect"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "areainteresses": ["Cloud", "Automação"]
+  },
+  {
+    "id": 9,
+    "nome": "Gabriela Costa",
+    "foto": "",
+    "cargo": "Psicóloga Organizacional",
+    "resumo": "Psicóloga com foco em clima organizacional e desenvolvimento humano.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Recursos Humanos",
+    "habilidadesTecnicas": ["Avaliação comportamental", "Recrutamento", "Entrevistas"],
+    "softSkills": ["Empatia", "Comunicação", "Mediação de conflitos"],
+    "experiencias": [
+      { "empresa": "HumanFocus", "cargo": "Psicóloga Organizacional", "inicio": "2020", "fim": "Atual", "descricao": "Programas de desenvolvimento e avaliação." }
+    ],
+    "formacao": [
+      { "curso": "Psicologia", "instituicao": "UFRGS", "ano": "2020" }
+    ],
     "projetos": [],
     "certificados": [],
-    "idiomas": [{ "idioma": "Espanhol", "nivel": "Intermediário" }],
-    "areainteres": ["Design de Produto"] 
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "areainteresses": ["Desenvolvimento Humano", "Clima Organizacional"]
+  },
+  {
+    "id": 10,
+    "nome": "Rafael Batista",
+    "foto": "",
+    "cargo": "Administrador de Redes",
+    "resumo": "Especialista em infraestrutura e segurança de redes corporativas.",
+    "localizacao": "Manaus/AM",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": ["Cisco", "Firewalls", "VPN", "Linux"],
+    "softSkills": ["Detalhismo", "Responsabilidade", "Boa comunicação"],
+    "experiencias": [
+      { "empresa": "NetCorp", "cargo": "Administrador de Redes", "inicio": "2016", "fim": "Atual", "descricao": "Gerência de redes e segurança." }
+    ],
+    "formacao": [
+      { "curso": "Tecnologia em Redes", "instituicao": "Senac", "ano": "2016" }
+    ],
+    "projetos": [],
+    "certificados": ["CCNA"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "areainteresses": ["Segurança", "Infraestrutura"]
+  },
+  {
+    "id": 11,
+    "nome": "Juliana Ribeiro",
+    "foto": "",
+    "cargo": "Analista de Marketing Digital",
+    "resumo": "Profissional focada em estratégias digitais e aumento de performance.",
+    "localizacao": "São Paulo/SP",
+    "area": "Marketing",
+    "habilidadesTecnicas": ["SEO", "SEM", "Meta Ads", "Google Analytics"],
+    "softSkills": ["Criatividade", "Comunicação", "Estratégia"],
+    "experiencias": [
+      { "empresa": "AdFly", "cargo": "Analista de Marketing", "inicio": "2018", "fim": "Atual", "descricao": "Campanhas de aquisição e otimização de funil." }
+    ],
+    "formacao": [
+      { "curso": "Publicidade e Propaganda", "instituicao": "UVA", "ano": "2018" }
+    ],
+    "projetos": [],
+    "certificados": ["Google Ads Certified"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "areainteresses": ["Performance", "Conteúdo"]
+  },
+  {
+    "id": 12,
+    "nome": "Felipe Moreira",
+    "foto": "",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Engenheiro especialista em sistemas corporativos e integrações.",
+    "localizacao": "São José dos Campos/SP",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": ["Java", "Spring Boot", "AWS", "MySQL"],
+    "softSkills": ["Pensamento crítico", "Organização", "Resiliência"],
+    "experiencias": [
+      { "empresa": "SoftPrime", "cargo": "Engenheiro de Software", "inicio": "2020", "fim": "Atual", "descricao": "Sistemas de missão crítica e integrações." }
+    ],
+    "formacao": [
+      { "curso": "Engenharia de Software", "instituicao": "UTFPR", "ano": "2020" }
+    ],
+    "projetos": [],
+    "certificados": ["AWS Solutions Architect"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "areainteresses": ["Integrações", "Automação"]
+  },
+  {
+    "id": 13,
+    "nome": "Bruna Farias",
+    "foto": "",
+    "cargo": "Arquiteta de Soluções",
+    "resumo": "Arquiteta com foco em soluções escaláveis e ambientes cloud.",
+    "localizacao": "Campinas/SP",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": ["AWS", "Arquitetura Cloud", "Microserviços"],
+    "softSkills": ["Visão estratégica", "Comunicação", "Liderança"],
+    "experiencias": [
+      { "empresa": "CloudBridge", "cargo": "Arquiteta de Soluções", "inicio": "2019", "fim": "Atual", "descricao": "Design de arquiteturas e governança." }
+    ],
+    "formacao": [
+      { "curso": "Ciência da Computação", "instituicao": "UFPE", "ano": "2019" }
+    ],
+    "projetos": [],
+    "certificados": ["TOGAF"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "areainteresses": ["Cloud", "Governança"]
+  },
+  {
+    "id": 14,
+    "nome": "Mateus Vieira",
+    "foto": "",
+    "cargo": "Analista de Suporte",
+    "resumo": "Técnico especializado em atendimento e suporte remoto.",
+    "localizacao": "Florianópolis/SC",
+    "area": "TI",
+    "habilidadesTecnicas": ["Linux", "Windows Server", "Atendimento técnico"],
+    "softSkills": ["Paciência", "Empatia", "Comunicação"],
+    "experiencias": [
+      { "empresa": "HelpTech", "cargo": "Suporte Técnico", "inicio": "2019", "fim": "Atual", "descricao": "Atendimento e resolução de incidentes." }
+    ],
+    "formacao": [
+      { "curso": "Tecnologia da Informação", "instituicao": "UNIP", "ano": "2019" }
+    ],
+    "projetos": [],
+    "certificados": [],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Básico" }],
+    "areainteresses": ["Suporte", "Automação"]
+  },
+  {
+    "id": 15,
+    "nome": "Amanda Cardoso",
+    "foto": "",
+    "cargo": "Product Owner",
+    "resumo": "PO com forte foco em produtos digitais e validação contínua.",
+    "localizacao": "Vitória/ES",
+    "area": "Gestão",
+    "habilidadesTecnicas": ["Scrum", "Jira", "Roadmaps", "Discovery"],
+    "softSkills": ["Liderança", "Visão de negócio", "Comunicação"],
+    "experiencias": [
+      { "empresa": "ProdMaster", "cargo": "PO", "inicio": "2018", "fim": "Atual", "descricao": "Gestão de backlog e priorização." }
+    ],
+    "formacao": [
+      { "curso": "Administração", "instituicao": "PUC Rio", "ano": "2017" }
+    ],
+    "projetos": [],
+    "certificados": ["PSPO"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "areainteresses": ["Produtos", "Customer"]
+  },
+  {
+    "id": 16,
+    "nome": "Wagner Neves",
+    "foto": "",
+    "cargo": "Editor de Vídeo",
+    "resumo": "Editor de vídeo com experiência em pós-produção e motion.",
+    "localizacao": "Niterói/RJ",
+    "area": "Audiovisual",
+    "habilidadesTecnicas": ["Premiere", "After Effects", "Motion Graphics"],
+    "softSkills": ["Criatividade", "Proatividade", "Organização"],
+    "experiencias": [
+      { "empresa": "CreativeHouse", "cargo": "Editor", "inicio": "2018", "fim": "Atual", "descricao": "Pós-produção e edição para campanhas." }
+    ],
+    "formacao": [
+      { "curso": "Cinema e Mídias Digitais", "instituicao": "Estácio", "ano": "2018" }
+    ],
+    "projetos": [],
+    "certificados": [],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Básico" }],
+    "areainteresses": ["Vídeo", "Motion"]
+  },
+  {
+    "id": 17,
+    "nome": "Isabela Monteiro",
+    "foto": "",
+    "cargo": "Redatora Publicitária",
+    "resumo": "Redatora com foco em comunicação persuasiva para marcas.",
+    "localizacao": "Salvador/BA",
+    "area": "Marketing",
+    "habilidadesTecnicas": ["Copywriting", "SEO", "Redação criativa"],
+    "softSkills": ["Comunicação", "Criatividade", "Gestão de tempo"],
+    "experiencias": [
+      { "empresa": "BrandStory", "cargo": "Redatora", "inicio": "2019", "fim": "Atual", "descricao": "Campanhas e conteúdo estratégico." }
+    ],
+    "formacao": [
+      { "curso": "Publicidade", "instituicao": "ESPM", "ano": "2019" }
+    ],
+    "projetos": [],
+    "certificados": [],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "areainteresses": ["Conteúdo", "Marcas"]
+  },
+  {
+    "id": 18,
+    "nome": "Renato Lopes",
+    "foto": "",
+    "cargo": "Analista Financeiro",
+    "resumo": "Experiência em análise financeira e relatórios gerenciais.",
+    "localizacao": "Goiânia/GO",
+    "area": "Finanças",
+    "habilidadesTecnicas": ["Excel", "Power BI", "Contabilidade", "Fluxo de caixa"],
+    "softSkills": ["Detalhismo", "Organização", "Trabalho em equipe"],
+    "experiencias": [
+      { "empresa": "FinPlus", "cargo": "Analista Financeiro", "inicio": "2016", "fim": "Atual", "descricao": "Análise de indicadores e projeções." }
+    ],
+    "formacao": [
+      { "curso": "Ciências Contábeis", "instituicao": "UNISAL", "ano": "2016" }
+    ],
+    "projetos": [],
+    "certificados": [],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Básico" }],
+    "areainteresses": ["Controladoria", "BI"]
+  },
+  {
+    "id": 19,
+    "nome": "Daniela Castro",
+    "foto": "",
+    "cargo": "Fotógrafa",
+    "resumo": "Fotógrafa especialista em retratos e direção de modelos.",
+    "localizacao": "Maceió/AL",
+    "area": "Audiovisual",
+    "habilidadesTecnicas": ["Fotografia", "Lightroom", "Photoshop"],
+    "softSkills": ["Criatividade", "Paciência", "Comunicação"],
+    "experiencias": [
+      { "empresa": "SelfStudio", "cargo": "Fotógrafa", "inicio": "2018", "fim": "Atual", "descricao": "Ensaios e direção artística." }
+    ],
+    "formacao": [
+      { "curso": "Fotografia Digital", "instituicao": "SENAC", "ano": "2018" }
+    ],
+    "projetos": [],
+    "certificados": [],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Básico" }],
+    "areainteresses": ["Retratos", "Direção"]
+  },
+  {
+    "id": 20,
+    "nome": "Tiago Barros",
+    "foto": "",
+    "cargo": "Desenvolvedor Mobile",
+    "resumo": "Desenvolvedor mobile com foco em apps híbridos de alta performance.",
+    "localizacao": "Natal/RN",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": ["React Native", "Expo", "TypeScript", "Firebase"],
+    "softSkills": ["Criatividade", "Autogestão", "Boa comunicação"],
+    "experiencias": [
+      { "empresa": "AppWorks", "cargo": "Dev Mobile", "inicio": "2020", "fim": "Atual", "descricao": "Desenvolvimento de apps cross-platform." }
+    ],
+    "formacao": [
+      { "curso": "Análise de Sistemas", "instituicao": "Mackenzie", "ano": "2020" }
+    ],
+    "projetos": [
+      { "titulo": "App Saúde", "link": "", "descricao": "Aplicativo para gestão de consultas." }
+    ],
+    "certificados": [],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "areainteresses": ["Mobile", "Saúde"]
   }
 ]
