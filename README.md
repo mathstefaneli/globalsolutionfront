@@ -1,16 +1,98 @@
-# React + Vite
+| Nome                             | RM     |
+| -------------------------------- | ------ |
+| **Matheus Gomes Stefaneli**      | 562277 |
+| **Felipe Otávio Garcia Madeira** | 563521 |
+| **Diego Bondezan Yonamine**      | 562013 |
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🌐 Global Solution – Perfis Profissionais
 
-Currently, two official plugins are available:
+Este projeto é uma aplicação web desenvolvida para exibir perfis profissionais de diferentes áreas, com filtros, busca, modal detalhada e modo escuro.  
+A proposta faz parte da **Global Solution** das disciplinas de *Front-End Design* e *Web Development*.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🎯 Objetivo do Projeto
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Criar uma interface moderna, acessível e responsiva capaz de:
 
-## Expanding the ESLint configuration
+- Exibir cards de profissionais com informações básicas.
+- Abrir um **modal interativo** com detalhes completos do profissional.
+- Permitir **filtro por área**, **filtro por cidade** e **busca por nome, cargo ou tecnologia**.
+- Ativar **Dark Mode** funcional.
+- Carregar **60 perfis reais** a partir de um **JSON local**.
+- Utilizar **React + Tailwind** com foco em boas práticas de UI/UX.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Funcionalidades
+
+### 🔎 **Sistema de Busca**
+Busca dinâmica por:
+- Nome  
+- Cargo  
+- Área  
+- Tecnologias (skills)
+
+### 🧭 **Filtros Avançados**
+- Filtro por área profissional  
+- Filtro por cidade  
+
+### 🔍 **Modal Detalhado**
+Ao clicar em *Ver mais*, o modal exibe:
+- Informações pessoais  
+- Experiências profissionais  
+- Formação acadêmica  
+- Habilidades técnicas  
+- Soft skills  
+- Hobbies  
+- Projetos  
+- Certificações  
+- Idiomas  
+- Botões funcionais:
+  - Recomendar profissional  
+  - Enviar mensagem (com modal e botão de fechar funcional)
+
+### 🌓 **Dark Mode**
+Interface com modo claro e escuro, alternável por botão.
+
+### 👤 **60 Perfis Reais**
+JSON completo contendo:
+- Nome  
+- Foto  
+- Cargo  
+- Localização  
+- Descrição  
+- Skills e Soft Skills  
+- Experiências  
+- Formação  
+- Projetos  
+- Certificações  
+- Idiomas  
+- Áreas de interesse  
+
+### 📱 **Totalmente Responsivo**
+Se adapta perfeitamente para:
+- Desktop  
+- Tablet  
+- Smartphone  
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- **React.js**
+- **Vite**
+- **Tailwind CSS**
+- **CSS Customizado**
+- **JSON Local**
+- **Componentização profissional**
+- **Hooks (useState, useEffect)**
+
+---
+
+## 📦 Como rodar o projeto
+
+### 1️⃣ Clonar o repositório
+
+```sh
+git clone https://github.com/mathstefaneli/globalsolutionfront
