@@ -90,8 +90,6 @@ Se adapta perfeitamente para:
 
 ---
 
-## 📦 Como rodar o projeto
-
 ### 1️⃣ Clonar o repositório
 
 ```sh
