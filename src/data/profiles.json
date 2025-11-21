@@ -2,7 +2,7 @@
   {
     "id": 1,
     "nome": "Ana Beatriz Silva",
-    "foto": "",
+    "foto": "/images/imagem_1.png",
     "cargo": "Desenvolvedora Front-end",
     "resumo": "Front-end focada em interfaces modernas e acessíveis, especialista em React.",
     "localizacao": "São Paulo/SP",
@@ -25,7 +25,7 @@
   {
     "id": 2,
     "nome": "Lucas Henrique Moura",
-    "foto": "",
+    "foto": "/images/imagem_2.png",
     "cargo": "Analista de Dados",
     "resumo": "Especialista em análise e visualização de dados com foco em tomada de decisões.",
     "localizacao": "Belo Horizonte/MG",
@@ -48,7 +48,7 @@
   {
     "id": 3,
     "nome": "Mariana Rocha",
-    "foto": "",
+    "foto": "/images/imagem_3.png",
     "cargo": "Designer UX/UI",
     "resumo": "UX/UI designer com foco em experiências centradas no usuário e protótipos eficientes.",
     "localizacao": "Porto Alegre/RS",
@@ -71,7 +71,7 @@
   {
     "id": 4,
     "nome": "Carlos Alberto Ferreira",
-    "foto": "",
+    "foto": "/images/imagem_4.png",
     "cargo": "Desenvolvedor Back-end",
     "resumo": "Back-end especializado em arquiteturas escaláveis e APIs robustas.",
     "localizacao": "Rio de Janeiro/RJ",
@@ -94,7 +94,7 @@
   {
     "id": 5,
     "nome": "Fernanda Oliveira",
-    "foto": "",
+    "foto": "/images/imagem_5.png",
     "cargo": "Gerente de Projetos",
     "resumo": "Gerente de projetos com foco em metodologias ágeis e equipes multidisciplinares.",
     "localizacao": "Curitiba/PR",
@@ -117,7 +117,7 @@
   {
     "id": 6,
     "nome": "João Pedro Andrade",
-    "foto": "",
+    "foto": "/images/imagem_6.png",
     "cargo": "Desenvolvedor Fullstack",
     "resumo": "Fullstack com foco em soluções rápidas e eficientes.",
     "localizacao": "São Paulo/SP",
@@ -140,7 +140,7 @@
   {
     "id": 7,
     "nome": "Patrícia Mendes",
-    "foto": "",
+    "foto": "/images/imagem_7.png",
     "cargo": "Cientista de Dados",
     "resumo": "Cientista de dados experiente em modelos preditivos e IA.",
     "localizacao": "Recife/PE",
@@ -163,7 +163,7 @@
   {
     "id": 8,
     "nome": "Vinícius Nogueira",
-    "foto": "",
+    "foto": "/images/imagem_8.png",
     "cargo": "Engenheiro DevOps",
     "resumo": "DevOps especializado em automação e infraestrutura em nuvem.",
     "localizacao": "Fortaleza/CE",
@@ -186,7 +186,7 @@
   {
     "id": 9,
     "nome": "Gabriela Costa",
-    "foto": "",
+    "foto": "/images/imagem_9.png",
     "cargo": "Psicóloga Organizacional",
     "resumo": "Psicóloga com foco em clima organizacional e desenvolvimento humano.",
     "localizacao": "Porto Alegre/RS",
@@ -207,7 +207,7 @@
   {
     "id": 10,
     "nome": "Rafael Batista",
-    "foto": "",
+    "foto": "/images/imagem_10.png",
     "cargo": "Administrador de Redes",
     "resumo": "Especialista em infraestrutura e segurança de redes corporativas.",
     "localizacao": "Manaus/AM",
@@ -228,7 +228,7 @@
   {
     "id": 11,
     "nome": "Juliana Ribeiro",
-    "foto": "",
+    "foto": "/images/imagem_11.png",
     "cargo": "Analista de Marketing Digital",
     "resumo": "Profissional focada em estratégias digitais e aumento de performance.",
     "localizacao": "São Paulo/SP",
@@ -249,7 +249,7 @@
   {
     "id": 12,
     "nome": "Felipe Moreira",
-    "foto": "",
+    "foto": "/images/imagem_12.png",
     "cargo": "Engenheiro de Software",
     "resumo": "Engenheiro especialista em sistemas corporativos e integrações.",
     "localizacao": "São José dos Campos/SP",
@@ -270,7 +270,7 @@
   {
     "id": 13,
     "nome": "Bruna Farias",
-    "foto": "",
+    "foto": "/images/imagem_13.png",
     "cargo": "Arquiteta de Soluções",
     "resumo": "Arquiteta com foco em soluções escaláveis e ambientes cloud.",
     "localizacao": "Campinas/SP",
@@ -291,7 +291,7 @@
   {
     "id": 14,
     "nome": "Mateus Vieira",
-    "foto": "",
+    "foto": "/images/imagem_14.png",
     "cargo": "Analista de Suporte",
     "resumo": "Técnico especializado em atendimento e suporte remoto.",
     "localizacao": "Florianópolis/SC",
@@ -312,7 +312,7 @@
   {
     "id": 15,
     "nome": "Amanda Cardoso",
-    "foto": "",
+    "foto": "/images/imagem_15.png",
     "cargo": "Product Owner",
     "resumo": "PO com forte foco em produtos digitais e validação contínua.",
     "localizacao": "Vitória/ES",
@@ -333,7 +333,7 @@
   {
     "id": 16,
     "nome": "Wagner Neves",
-    "foto": "",
+    "foto": "/images/imagem_16.png",
     "cargo": "Editor de Vídeo",
     "resumo": "Editor de vídeo com experiência em pós-produção e motion.",
     "localizacao": "Niterói/RJ",
@@ -354,7 +354,7 @@
   {
     "id": 17,
     "nome": "Isabela Monteiro",
-    "foto": "",
+    "foto": "/images/imagem_17.png",
     "cargo": "Redatora Publicitária",
     "resumo": "Redatora com foco em comunicação persuasiva para marcas.",
     "localizacao": "Salvador/BA",
@@ -375,7 +375,7 @@
   {
     "id": 18,
     "nome": "Renato Lopes",
-    "foto": "",
+    "foto": "/images/imagem_18.png",
     "cargo": "Analista Financeiro",
     "resumo": "Experiência em análise financeira e relatórios gerenciais.",
     "localizacao": "Goiânia/GO",
@@ -396,7 +396,7 @@
   {
     "id": 19,
     "nome": "Daniela Castro",
-    "foto": "",
+    "foto": "/images/imagem_19.png",
     "cargo": "Fotógrafa",
     "resumo": "Fotógrafa especialista em retratos e direção de modelos.",
     "localizacao": "Maceió/AL",
@@ -417,7 +417,7 @@
   {
     "id": 20,
     "nome": "Tiago Barros",
-    "foto": "",
+    "foto": "/images/imagem_20.png",
     "cargo": "Desenvolvedor Mobile",
     "resumo": "Desenvolvedor mobile com foco em apps híbridos de alta performance.",
     "localizacao": "Natal/RN",
@@ -440,7 +440,7 @@
   {
   "id": 21,
   "nome": "Letícia Almeida",
-  "foto": "",
+  "foto": "/images/imagem_21.png",
   "cargo": "Enfermeira",
   "resumo": "Profissional experiente em atendimento clínico e gestão de equipes.",
   "localizacao": "São Paulo/SP",
@@ -461,7 +461,7 @@
 {
   "id": 22,
   "nome": "Eduardo Tavares",
-  "foto": "",
+  "foto": "/images/imagem_22.png",
   "cargo": "Professor de Matemática",
   "resumo": "Professor dedicado ao ensino médio e pré-vestibular.",
   "localizacao": "Goiânia/GO",
@@ -482,7 +482,7 @@
 {
   "id": 23,
   "nome": "Simone Duarte",
-  "foto": "",
+  "foto": "/images/imagem_23.png",
   "cargo": "Nutricionista",
   "resumo": "Nutricionista focada em reeducação alimentar e saúde preventiva.",
   "localizacao": "Rio de Janeiro/RJ",
@@ -503,7 +503,7 @@
 {
   "id": 24,
   "nome": "Henrique Martins",
-  "foto": "",
+  "foto": "/images/imagem_24.png",
   "cargo": "Advogado Trabalhista",
   "resumo": "Advogado com foco em direito do trabalho e causas corporativas.",
   "localizacao": "Curitiba/PR",
@@ -524,7 +524,7 @@
 {
   "id": 25,
   "nome": "Tatiane Borges",
-  "foto": "",
+  "foto": "/images/imagem_25.png",
   "cargo": "Assistente Social",
   "resumo": "Atua com famílias em situação de risco e políticas públicas.",
   "localizacao": "Belo Horizonte/MG",
@@ -545,7 +545,7 @@
 {
   "id": 26,
   "nome": "Marcelo Figueiredo",
-  "foto": "",
+  "foto": "/images/imagem_26.png",
   "cargo": "Economista",
   "resumo": "Especialista em análises macroeconômicas e planejamento financeiro.",
   "localizacao": "Brasília/DF",
@@ -566,7 +566,7 @@
 {
   "id": 27,
   "nome": "Lorena Passos",
-  "foto": "",
+  "foto": "/images/imagem_27.png",
   "cargo": "Psicopedagoga",
   "resumo": "Apoia crianças e adolescentes com dificuldades de aprendizagem.",
   "localizacao": "Salvador/BA",
@@ -587,7 +587,7 @@
 {
   "id": 28,
   "nome": "Gustavo Lima",
-  "foto": "",
+  "foto": "/images/imagem_28.png",
   "cargo": "Arquiteto",
   "resumo": "Trabalha com projetos residenciais e urbanismo.",
   "localizacao": "São Paulo/SP",
@@ -608,7 +608,7 @@
 {
   "id": 29,
   "nome": "Aline Correia",
-  "foto": "",
+  "foto": "/images/imagem_29.png",
   "cargo": "Farmacêutica",
   "resumo": "Profissional atuante em análises laboratoriais e atendimento clínico.",
   "localizacao": "Recife/PE",
@@ -629,7 +629,7 @@
 {
   "id": 30,
   "nome": "Ricardo Santos",
-  "foto": "",
+  "foto": "/images/imagem_30.png",
   "cargo": "Fisioterapeuta",
   "resumo": "Especializado em reabilitação ortopédica e esportiva.",
   "localizacao": "Porto Alegre/RS",
@@ -650,7 +650,7 @@
 {
   "id": 31,
   "nome": "Carolina Nunes",
-  "foto": "",
+  "foto": "/images/imagem_31.png",
   "cargo": "Jornalista",
   "resumo": "Experiência em redação, reportagens e produção de conteúdo digital.",
   "localizacao": "São Paulo/SP",
@@ -671,7 +671,7 @@
 {
   "id": 32,
   "nome": "Renan Souza",
-  "foto": "",
+  "foto": "/images/imagem_32.png",
   "cargo": "Chef de Cozinha",
   "resumo": "Chef especializado em gastronomia contemporânea e cardápios autorais.",
   "localizacao": "Rio de Janeiro/RJ",
@@ -692,7 +692,7 @@
 {
   "id": 33,
   "nome": "Helena Pires",
-  "foto": "",
+  "foto": "/images/imagem_33.png",
   "cargo": "Bióloga",
   "resumo": "Pesquisa em biologia marinha e conservação ambiental.",
   "localizacao": "Florianópolis/SC",
@@ -713,7 +713,7 @@
 {
   "id": 34,
   "nome": "Thiago Carvalho",
-  "foto": "",
+  "foto": "/images/imagem_34.png",
   "cargo": "Treinador Físico",
   "resumo": "Personal trainer focado em hipertrofia e condicionamento.",
   "localizacao": "São Paulo/SP",
@@ -734,7 +734,7 @@
 {
   "id": 35,
   "nome": "Paula Serrano",
-  "foto": "",
+  "foto": "/images/imagem_35.png",
   "cargo": "Gestora Ambiental",
   "resumo": "Atua em projetos de sustentabilidade e educação ambiental.",
   "localizacao": "Belém/PA",
@@ -755,7 +755,7 @@
 {
   "id": 36,
   "nome": "Marcos Valverde",
-  "foto": "",
+  "foto": "/images/imagem_36.png",
   "cargo": "Engenheiro Mecânico",
   "resumo": "Especialista em projetos industriais e automação.",
   "localizacao": "Campinas/SP",
@@ -776,7 +776,7 @@
 {
   "id": 37,
   "nome": "Viviane Gomes",
-  "foto": "",
+  "foto": "/images/imagem_37.png",
   "cargo": "Pedagoga",
   "resumo": "Atua com alfabetização e ensino infantil.",
   "localizacao": "João Pessoa/PB",
@@ -797,7 +797,7 @@
 {
   "id": 38,
   "nome": "César Albuquerque",
-  "foto": "",
+  "foto": "/images/imagem_38.png",
   "cargo": "Técnico em Informática",
   "resumo": "Suporte técnico presencial e manutenção de equipamentos.",
   "localizacao": "Natal/RN",
@@ -818,7 +818,7 @@
 {
   "id": 39,
   "nome": "Elisa Fontes",
-  "foto": "",
+  "foto": "/images/imagem_39.png",
   "cargo": "Assistente Administrativa",
   "resumo": "Atuação em rotinas administrativas e organização de documentos.",
   "localizacao": "São Luís/MA",
@@ -839,7 +839,7 @@
 {
   "id": 40,
   "nome": "Patrick Mourão",
-  "foto": "",
+  "foto": "/images/imagem_40.png",
   "cargo": "Analista de Logística",
   "resumo": "Experiência com cadeia de suprimentos e otimização de processos.",
   "localizacao": "São Paulo/SP",
@@ -860,7 +860,7 @@
 {
     "id": 41,
     "nome": "Luciana Prado",
-    "foto": "/images/foto41.jpg",
+    "foto": "/images/imagem_41.png",
     "cargo": "Data Engineer",
     "resumo": "Especialista em pipelines e arquitetura de dados.",
     "localizacao": "São Paulo/SP",
@@ -887,7 +887,7 @@
   {
     "id": 42,
     "nome": "Rafael Nogueira",
-    "foto": "/images/foto42.jpg",
+    "foto": "/images/imagem_42.png",
     "cargo": "Front-end Developer",
     "resumo": "Desenvolvedor focado em UI moderna e interativa.",
     "localizacao": "Salvador/BA",
@@ -904,7 +904,7 @@
   {
     "id": 43,
     "nome": "Vanessa Martins",
-    "foto": "/images/foto43.jpg",
+    "foto": "/images/imagem_43.png",
     "cargo": "UX Researcher",
     "resumo": "Focada em comportamento humano e usabilidade.",
     "localizacao": "Belo Horizonte/MG",
@@ -921,7 +921,7 @@
   {
     "id": 44,
     "nome": "Eduardo Lima",
-    "foto": "/images/foto44.jpg",
+    "foto": "/images/imagem_44.png",
     "cargo": "DevOps Engineer",
     "resumo": "Automação e pipelines de CI/CD.",
     "localizacao": "Sorocaba/SP",
@@ -938,7 +938,7 @@
   {
     "id": 45,
     "nome": "Renata Gonçalves",
-    "foto": "/images/foto45.jpg",
+    "foto": "/images/imagem_45.png",
     "cargo": "Psicóloga Organizacional",
     "resumo": "Especialista em clima organizacional e gestão humana.",
     "localizacao": "São Paulo/SP",
@@ -955,7 +955,7 @@
   {
     "id": 46,
     "nome": "Marcelo Azevedo",
-    "foto": "/images/foto46.jpg",
+    "foto": "/images/imagem_46.png",
     "cargo": "Mobile Developer",
     "resumo": "Especialista em apps Android e iOS.",
     "localizacao": "Fortaleza/CE",
@@ -972,7 +972,7 @@
   {
     "id": 47,
     "nome": "Juliana Paes",
-    "foto": "/images/foto47.jpg",
+    "foto": "/images/imagem_47.png",
     "cargo": "Marketing Analyst",
     "resumo": "Focada em estratégias digitais e tráfego pago.",
     "localizacao": "Curitiba/PR",
@@ -989,7 +989,7 @@
   {
     "id": 48,
     "nome": "Henrique Torres",
-    "foto": "/images/foto48.jpg",
+    "foto": "/images/imagem_48.png",
     "cargo": "Software Architect",
     "resumo": "Arquiteto de software com foco em escalabilidade.",
     "localizacao": "São José dos Campos/SP",
@@ -1006,7 +1006,7 @@
   {
     "id": 49,
     "nome": "Carolina Ribeiro",
-    "foto": "/images/foto49.jpg",
+    "foto": "/images/imagem_49.png",
     "cargo": "Illustrator",
     "resumo": "Ilustradora digital para campanhas e livros.",
     "localizacao": "Recife/PE",
@@ -1023,7 +1023,7 @@
   {
     "id": 50,
     "nome": "Tiago Fernandes",
-    "foto": "/images/foto50.jpg",
+    "foto": "/images/imagem_50.png",
     "cargo": "Cybersecurity Analyst",
     "resumo": "Focado em segurança ofensiva.",
     "localizacao": "Brasília/DF",
@@ -1040,7 +1040,7 @@
   {
     "id": 51,
     "nome": "Amanda Faria",
-    "foto": "/images/foto51.jpg",
+    "foto": "/images/imagem_51.png",
     "cargo": "Product Owner",
     "resumo": "Responsável pelo desenvolvimento de produtos digitais.",
     "localizacao": "São Paulo/SP",
@@ -1057,7 +1057,7 @@
   {
     "id": 52,
     "nome": "Pedro Amorim",
-    "foto": "/images/foto52.jpg",
+    "foto": "/images/imagem_52.png",
     "cargo": "Backend Developer",
     "resumo": "Apaixonado por APIs e microserviços.",
     "localizacao": "Porto Alegre/RS",
@@ -1074,7 +1074,7 @@
   {
     "id": 53,
     "nome": "Daniela Couto",
-    "foto": "/images/foto53.jpg",
+    "foto": "/images/imagem_53.png",
     "cargo": "QA Tester",
     "resumo": "Especialista em testes manuais e automação.",
     "localizacao": "Rio de Janeiro/RJ",
@@ -1091,7 +1091,7 @@
   {
     "id": 54,
     "nome": "Fábio Santos",
-    "foto": "/images/foto54.jpg",
+    "foto": "/images/imagem_54.png",
     "cargo": "Game Developer",
     "resumo": "Desenvolvedor de jogos para PC e mobile.",
     "localizacao": "João Pessoa/PB",
@@ -1108,7 +1108,7 @@
   {
     "id": 55,
     "nome": "Aline Castro",
-    "foto": "/images/foto55.jpg",
+    "foto": "/images/imagem_55.png",
     "cargo": "Content Creator",
     "resumo": "Criadora de conteúdo para marcas digitais.",
     "localizacao": "São Luís/MA",
@@ -1125,7 +1125,7 @@
   {
     "id": 56,
     "nome": "Leonardo Antunes",
-    "foto": "/images/foto56.jpg",
+    "foto": "/images/imagem_56.png",
     "cargo": "Biomédico",
     "resumo": "Focado em análises laboratoriais.",
     "localizacao": "Campinas/SP",
@@ -1142,7 +1142,7 @@
   {
     "id": 57,
     "nome": "Fernanda Costa",
-    "foto": "/images/foto57.jpg",
+    "foto": "/images/imagem_57.png",
     "cargo": "Pedagoga",
     "resumo": "Especialista em educação infantil.",
     "localizacao": "Belém/PA",
@@ -1159,7 +1159,7 @@
   {
     "id": 58,
     "nome": "Gustavo Ferreira",
-    "foto": "/images/foto58.jpg",
+    "foto": "/images/imagem_58.png",
     "cargo": "Analista Financeiro",
     "resumo": "Especialista em relatórios e controladoria.",
     "localizacao": "São Paulo/SP",
@@ -1176,7 +1176,7 @@
   {
     "id": 59,
     "nome": "Patrícia Mendes",
-    "foto": "/images/foto59.jpg",
+    "foto": "/images/imagem_59.png",
     "cargo": "Arquitetura de Interiores",
     "resumo": "Especialista em projetos residenciais.",
     "localizacao": "Curitiba/PR",
@@ -1193,7 +1193,7 @@
   {
     "id": 60,
     "nome": "Rodrigo Mota",
-    "foto": "/images/foto60.jpg",
+    "foto": "/images/imagem_60.png",
     "cargo": "Analista de Redes",
     "resumo": "Focado em infraestrutura e cabeamento.",
     "localizacao": "Manaus/AM",
